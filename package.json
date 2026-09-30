@@ -1,0 +1,13 @@
+{
+  "name": "docker-node-task-manager",
+  "version": "1.0.0",
+  "description": "Node.js Task Manager API for Docker practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
